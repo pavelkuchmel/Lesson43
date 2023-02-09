@@ -1,0 +1,16 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div{
+    background-color: rgba(2, 126, 150, .50);
+    margin: -7px 100px;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+p{
+    font-size: 8px;
+}
